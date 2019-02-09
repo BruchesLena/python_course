@@ -2,7 +2,7 @@
 
 | №  | Тема                  | Материалы | Часы | Дата |
 |----|-----------------------|-----------|------|------|
-| 1  | csv                   |   [Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/csv)        | 2    |      |
+| 1  | csv                   |   [Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/csv)        | 2  |09.02.2019 (*2)  |      |
 | 2  | json                  |    [Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/json)       | 2    |      |
 | 3  | xml                   |           | 2    |      |
 | 4  | numpy                 |           | 4    |      |
