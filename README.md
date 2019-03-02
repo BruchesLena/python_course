@@ -5,7 +5,7 @@
 | 1  | csv                   |   [Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/csv)        | 2  |09.02.2019 (*2)  |      |
 | 2  | json                  |    [Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/json)       | 2    |16.02.2019 (*1)      |
 | 3  | xml                   |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/xml)           | 2    |02.03.2019 (*1)      |
-| 4  | numpy                 |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/numpy)           | 4    |16.03 (*1)      |
+| 4  | numpy                 |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/numpy)           | 4    |16.03.2019 (*1)      |
 | 5  | matplotlib            |           | 2    |      |
 | 6  | unittest              |           | 2    |      |
 | 7  | Collections           |           | 2    |      |
