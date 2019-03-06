@@ -18,3 +18,8 @@
 | 14 | Создание сайта: HTML  |           | 4    |      |
 | 15 | Создание сайта        |           | 4    |      |
 | 16 | Сдача заданий         |           | 2    |      |
+
+
+
+# Ссылки на дополнительные материалы:
+1. [Debugging Python code](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html)
