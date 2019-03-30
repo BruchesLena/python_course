@@ -7,7 +7,7 @@
 | 3  | xml                   |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/xml)           | 2    |02.03.2019 (*1)      |
 | 4  | numpy                 |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/numpy)           | 4    |16.03.2019 (*1)      |
 | 5  | matplotlib            |[Задание](https://github.com/BruchesLena/python_course/tree/master/matplotlib)           | 2    |23.03.2019 (*2)      |
-| 6  | unittest              |           | 2    |      |
+| 6  | unittest              |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/unittests)           | 2    |30.03.2019 (*1)      |
 | 7  | Collections           |           | 2    |      |
 | 8  | time                  |           | 2    |      |
 | 9  | ООП: создание классов |           | 4    |      |
