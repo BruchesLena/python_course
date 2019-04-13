@@ -9,7 +9,7 @@
 | 5  | matplotlib            |[Задание](https://github.com/BruchesLena/python_course/tree/master/matplotlib)           | 2    |23.03.2019 (*2)      |
 | 6  | unittest              |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/unittests)           | 2    |30.03.2019 (*1)      |
 | 7  | time           |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/time)           | 2    |06.04.2019 (*2)      |
-| 8  | Collections                  |           | 2    |      |
+| 8  | Collections                  |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/collections)           | 2    |13.04.2019 (*1)      |
 | 9  | ООП: создание классов |           | 4    |      |
 | 10 | ООП: наследование     |           | 4    |      |
 | 11 | ООП: инкапсуляция     |           | 4    |      |
