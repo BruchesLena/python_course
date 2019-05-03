@@ -12,7 +12,7 @@
 | 8  | Collections                  |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/collections)           | 2    |13.04.2019 (*1)      |
 | 9  | ООП: создание классов |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/oop)           | 4    |20.04.2019(*1)      |
 | 10 | ООП: наследование     |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/oop_inheritance)           | 4    |27.04.2019(*2)      |
-| 11 | ООП: инкапсуляция     |           | 4    |      |
+| 11 | ООП: инкапсуляция     |[Лекция, семинар](https://github.com/BruchesLena/python_course/tree/master/oop_incapsulation)           | 4    |17.04.2019(*2)      |
 | 12 | ООП                   |           | 4    |      |
 | 13 | Исключения            |           | 4    |      |
 | 14 | Создание сайта: HTML  |           | 4    |      |
